@@ -44,7 +44,6 @@ npm install
 npm run dev
 ```
 
-Open <http://localhost:3000>. The API runs at <http://localhost:4000>; the queue dashboard is at <http://localhost:4000/admin/queues>.
 
 ## Provider setup
 
